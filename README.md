@@ -1,10 +1,10 @@
 # 🌸 Hi, I am Fauziya Malik
 
-## 🎓 B.Sc.(IT) Graduate | Aspiring Data Analyst
+### 🎓 B.Sc.(IT) Graduate | Aspiring Data Analyst
 
 📊 Passionate about transforming raw data into meaningful solutions and patterns.
 
-## 🚀  Analyst Background :
+### 🚀  Analyst Background :
 
 🔍 Curious about discovering patterns and trends that create business value
 
@@ -14,7 +14,7 @@
 
 🌱 Continously enchancing my analytical thinking and problem solving abilities
 
-## 🛠️ Tools & Technologies:
+### 🛠️ Tools & Technologies:
 
 Languages - SQL and Python
 
@@ -22,7 +22,7 @@ Libraries - Pandas, NumPy, Scikit, Seaborn, Matplotlib
 
 Tools - Excel, Power BI
 
-## 📂 Projects:
+### 📂 Projects:
 
 1. McDonald's Sales Insights & Dashboard (Advanced Excel)
    
@@ -32,7 +32,7 @@ Tools - Excel, Power BI
    
 4. Customer Sentiment Analysis (Python)
 
-## 📫 Connect With Me
+### 📫 Connect With Me
 
 LinkedIn - www.linkedin.com/in/fauziya-malik-a0a581260
 
